@@ -2,4 +2,4 @@
 
 Requisitos (.Net Runtime Framework): https://dotnet.microsoft.com/download/dotnet-framework/net472
 
-Download (.rar): https://mega.nz/file/91k1jZbJ#ESPUuM9OArqgslMM9isr7Xpnynxh3-2lMvfcM3bonX8
+Download (.exe): https://mega.nz/file/x0tBnDxT#R_BzrVIy37OtFjki74JcrOGUa7hG8LLf9HlZ9FYDsIs
